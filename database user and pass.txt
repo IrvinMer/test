@@ -1,0 +1,15 @@
+root
+bigbutt40
+
+//users db
+mysql -u root -p
+bigbutt40
+
+USE worstbuy_db;
+Display Tables from worstbuy_db:
+SELECT * FROM users;
+SELECT * FROM user_cart;
+SELECT * FROM products;
+
+how to run schema: 
+mysql> source schema.sql; (be in the schema's directory)
